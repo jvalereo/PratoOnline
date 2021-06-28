@@ -14,7 +14,6 @@
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
-
 # Projeto ETESP - Etec de São Paulo - Centro Paula Souza 2015
 
 <a href="#">
