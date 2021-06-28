@@ -1,0 +1,32 @@
+C:\Users\JONAS\Desktop\Nova pasta\Prato Online\Prato Online\bin\Debug\Prato Online.exe.config
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\bin\Debug\Prato Online.exe.config
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\bin\Debug\Prato Online.exe
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\bin\Debug\Prato Online.pdb
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\obj\Debug\Prato Online.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\obj\Debug\Prato_Online.Form1.resources
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\obj\Debug\Prato_Online.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\obj\Debug\Prato Online.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\obj\Debug\Prato Online.exe
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\Prato Online\obj\Debug\Prato Online.pdb
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\bin\Debug\Prato Online.exe.config
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\obj\Debug\Prato Online.exe
+C:\Users\JONAS\Desktop\Prato Online\Prato Online\obj\Debug\Prato Online.pdb
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\bin\Debug\Prato Online.exe.config
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato Online.exe
+C:\Users\JONAS\Desktop\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato Online.pdb
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\bin\Debug\Prato Online.exe.config
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato Online.exe
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato Online.pdb
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\bin\Debug\Prato Online.exe
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\bin\Debug\Prato Online.pdb
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato Online.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato_Online.Form1.resources
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato_Online.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Arquivo 2020\Aulas em C# Etec de São Paulo Revisão\Prato Online\Prato Online\obj\Debug\Prato Online.csproj.GenerateResource.Cache
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\bin\Debug\Prato Online.exe
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\bin\Debug\Prato Online.pdb
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\obj\Debug\Prato Online.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\obj\Debug\Prato_Online.Form1.resources
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\obj\Debug\Prato_Online.Properties.Resources.resources
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\obj\Debug\Prato Online.csproj.GenerateResource.cache
+C:\Users\Jonas\Desktop\Prato Online\Prato Online\obj\Debug\Prato Online.csproj.CoreCompileInputs.cache
